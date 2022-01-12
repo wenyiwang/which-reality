@@ -2,7 +2,6 @@
 <head>
   <title>Oh geez... What reality am I in?</title>
 </head>
-<!-- TODO: Testing with member ssn: 333-33-3333 -->
   
 <body>
 <h1> Server Information</h1>
